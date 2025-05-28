@@ -7,4 +7,4 @@
  - был использован фреймворк django
  - бал использован api https://open-meteo.com/
 
-Чтобы запустить в командной строке нужно прописать `python manage.py runserver`
+Для запуска в командной строке нужно прописать `python manage.py runserver`
