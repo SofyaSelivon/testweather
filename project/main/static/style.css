@@ -1,0 +1,22 @@
+html{
+    margin: 0;
+    padding: 0;
+    bax-sizing: border-box;
+}
+body{
+    background-color: #f7dd99;
+    color: #ebb42a;
+}
+nav.row {
+    display: block;
+    background-color: #ebb42a;
+    color: #f7dd99;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 16px;
+    text-align: center;
+}
+.row{
+    text-align: center;
+    font-size: 20px;
+}
